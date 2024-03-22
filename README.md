@@ -1,7 +1,8 @@
 # ATLAS
-## Adaptive Traffic Learning and Analysis System
+### Adaptive Traffic Learning and Analysis System
 
-### Team Name - Traffic Enablers
+#### Team Name
+Traffic Enablers
 
 Team Members -
 
