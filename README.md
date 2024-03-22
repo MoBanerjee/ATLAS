@@ -29,7 +29,7 @@ Through this innovative integration of technology and data analysis, the "Adapti
 The "Adaptive Traffic" initiative by Traffic Enablers represents a forward-thinking approach to urban traffic management, leveraging advanced technologies to address a pressing societal issue. By optimizing traffic flow and reducing congestion, this project stands to make a significant contribution to the efficiency of urban transportation networks.
 
 #### Files Description -
-1. test.net.xml - is the network definition file of our sample road network for SUMO.
+1. <b>test.net.xml</b> - is the network definition file of our sample road network for SUMO.
 2. test.rou.xml - is the route file, which contains information about vehicle routes within the simulated environment.
 3. s-test.sumocfg - is the SUMO configuration file containing the parameters and settings for simulation scenario.
 4. script.py - runs the s-test.sumocfg file and stores the vehicle's co-ordinates, mean and standard deviations in the simulation_data csv file.
