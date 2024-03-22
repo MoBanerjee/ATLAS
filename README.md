@@ -30,8 +30,8 @@ The "Adaptive Traffic" initiative by Traffic Enablers represents a forward-think
 
 #### Files Description -
 1. <b>test.net.xml</b> - is the network definition file of our sample road network for SUMO.
-2. test.rou.xml - is the route file, which contains information about vehicle routes within the simulated environment.
-3. s-test.sumocfg - is the SUMO configuration file containing the parameters and settings for simulation scenario.
-4. script.py - runs the s-test.sumocfg file and stores the vehicle's co-ordinates, mean and standard deviations in the simulation_data csv file.
-5. DataProcessing.ipynb - we have extracted the timestamps at which the standard deviation is less ( belonging to the bottom 10 percentile ), suggesting that the vehicles are close to each other, thereby congested - meaning more traffic at these points and saved them into the congestionpoints.csv file
-6. LLM-model.ipynb - consists of the LLM model that takes in an additional prompt along with the data points in the congestionpoints.csv file and suggests structural changes that can be made to reduce the traffic congestion.
+2. <b>test.rou.xml</b> - is the route file, which contains information about vehicle routes within the simulated environment.
+3. <b>s-test.sumocfg</b> - is the SUMO configuration file containing the parameters and settings for simulation scenario.
+4. <b>script.py</b> - runs the s-test.sumocfg file and stores the vehicle's co-ordinates, mean and standard deviations in the simulation_data csv file.
+5. <b>DataProcessing.ipynb</b> - we have extracted the timestamps at which the standard deviation is less ( belonging to the bottom 10 percentile ), suggesting that the vehicles are close to each other, thereby congested - meaning more traffic at these points and saved them into the congestionpoints.csv file
+6. <b>LLM-model.ipynb</b> - consists of the LLM model that takes in an additional prompt along with the data points in the congestionpoints.csv file and suggests structural changes that can be made to reduce the traffic congestion.
