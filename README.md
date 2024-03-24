@@ -1,4 +1,3 @@
-![Green Professional Strategic Business Plan Executive Summary (1)](https://github.com/S-Bhargavii/ATLAS/assets/112262559/fcc1c0f5-a0f5-488d-9690-bbed88208c4b)
 # ATLAS
 ### Adaptive Traffic Learning and Analysis System
 
@@ -36,3 +35,5 @@ The "Adaptive Traffic" initiative by Traffic Enablers represents a forward-think
 4. <b>script.py</b> - runs the s-test.sumocfg file and stores the vehicle's co-ordinates, mean and standard deviations in the simulation_data csv file.
 5. <b>DataProcessing.ipynb</b> - we have extracted the timestamps at which the standard deviation is less ( belonging to the bottom 10 percentile ), suggesting that the vehicles are close to each other, thereby congested - meaning more traffic at these points and saved them into the congestionpoints.csv file
 6. <b>LLM-model.ipynb</b> - consists of the LLM model that takes in an additional prompt along with the data points in the congestionpoints.csv file and suggests structural changes that can be made to reduce the traffic congestion.
+   
+![Green Professional Strategic Business Plan Executive Summary (1)](https://github.com/S-Bhargavii/ATLAS/assets/112262559/fcc1c0f5-a0f5-488d-9690-bbed88208c4b)
