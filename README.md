@@ -1,3 +1,4 @@
+![Green Professional Strategic Business Plan Executive Summary (1)](https://github.com/S-Bhargavii/ATLAS/assets/112262559/fcc1c0f5-a0f5-488d-9690-bbed88208c4b)
 # ATLAS
 ### Adaptive Traffic Learning and Analysis System
 
